@@ -1,5 +1,5 @@
 import React, { useState, useCallback, useRef } from 'react';
-import { Upload, FileSpreadsheet, X, CheckCircle, AlertCircle, Loader2, Table } from 'lucide-react';
+import { Upload, FileSpreadsheet, X, CheckCircle, AlertCircle, Loader2 } from 'lucide-react';
 import NavBar from './NavBar';
 import '../css/fileUpload.css'
 

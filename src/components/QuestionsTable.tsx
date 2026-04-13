@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ChevronDown, ChevronUp, CheckCircle2, Pencil, Trash2, X, Save, Loader2, Eye } from 'lucide-react';
+import { CheckCircle2, Pencil, Trash2, X, Save, Loader2, Eye } from 'lucide-react';
 import NavBar from './NavBar';
 
 interface Question {
